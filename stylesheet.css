@@ -1,0 +1,43 @@
+header{
+    width: 100%;
+    height: 60px;
+    border-bottom: 2px solid gray;
+    box-shadow: 0 8px 6px -6px black;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 500;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#myForm{    
+    font-size: 20px;
+    margin: 20px;
+}
+#myForm label{
+    margin: 5px;
+    margin-top: 5px;
+}
+
+tr{
+    border: 2px solid black;
+}
+
+th, td{
+    border: 2px solid black;
+padding: 15px;
+text-align: center;
+}
+
+table{
+    margin-left:20px ;
+
+}
+
+table img{
+    margin-top: 10px;
+    width: 60px;
+    height: 60px;
+}
